@@ -1,0 +1,27 @@
+{
+  "name": "ftps-cg-lib",
+  "version": "1.0.3",
+  "description": "Library that gets an ftps connection",
+  "main": "index.js",
+  "keywords": [
+    "FTPS",
+    "Connection",
+    "File",
+    "Get",
+    "Encoding",
+    "library",
+    "CloudGen",
+    "NexGen",
+    "components"
+  ],
+  "author": "Jafet Malvaez Lopez <jafet.malvaez@cloudgensys.com> (https://www.cloudgensys.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "ftp": "^0.3.10",
+    "ftps": "^1.2.0",
+    "msgbroker-nxg-cg": "^0.2.0",
+    "process": "^0.11.10",
+    "stream": "^0.0.2",
+    "utils-nxg-cg": "^1.1.15"
+  }
+}
